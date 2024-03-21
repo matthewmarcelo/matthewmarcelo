@@ -1,10 +1,10 @@
 # hi there!
-he/him/they/them
-Progress begins with passion.
-Powered by the art of the bodge.
-Tech enthusiast by day, otaku by night.
-Coder with experience in Java, C, C++, Python, Unity C#, R, HTML, CSS, JS.
-Also a UI / UX designer.
+- he/him/they/them
+- Progress begins with passion.
+- Powered by the art of the bodge.
+- Tech enthusiast by day, otaku by night.
+- Coder with experience in Java, C, C++, Python, Unity C#, R, HTML, CSS, JS.
+- Also a UI / UX designer.
 
 <!--
 **matthewmarcelo/matthewmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
